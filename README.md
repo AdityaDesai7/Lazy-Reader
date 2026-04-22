@@ -1,4 +1,4 @@
-# 📚 Lazy Reader
+#  Lazy Reader
 
 A local RAG (Retrieval-Augmented Generation) chatbot that lets you **chat with multiple PDF books at once** — entirely offline, no API keys needed.
 
@@ -90,4 +90,4 @@ Edit these constants at the top of `app.py`:
 
 ## License
 
-MIT
+it's mine bro
