@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Vector database (auto-rebuilt on first run)
+chroma_db/
+
+# PDF files — large binaries, not tracked in git
+*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# HuggingFace model cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env

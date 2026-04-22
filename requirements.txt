@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+sentence-transformers
